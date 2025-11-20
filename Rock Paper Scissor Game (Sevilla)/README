@@ -1,0 +1,11 @@
+Mini Arcade - Build your Own Browser Game
+Rock Paper Scossor Browser Game Project
+by Zeus F. Sevilla
+
+A single player rock paper scissor browser game web development DC101 project using html for structure, css for styling and responsiveness and javascript for interactivity and logic, its assets contain 3 image for the choices and a clicking sound effect.
+
+Instructions:
+1.To start playing the game randomly select any of the three choices (rock, paper,scissor)
+2.simultaneously the comp will randomly select from the choices.
+3.There are three possible results in the game that you can see depending on the combination of user and comp choice, first if you win the image borders and result texts above the images that you picked will temporarily glow  green, red if you lose and grey if its a draw, you will also read it from the promp appearing at the top.
+4.Scores will recorded at the scoreboard until you reset or refresh the browser for a new game

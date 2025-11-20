@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissor Game</title> <!--this titles the webpage tab-->
+    <link rel="stylesheet" href="style.css"><!--links the html to css-->
+</head>
+<body>
+    <header>
+        <h1>Rock Paper Scissors</h1> <!--this is the game header title-->
+    </header>
+
+    <div class="score-board"><!--this contains both user and comp score total-->
+        <div id="user-label" class="badge">USER</div> <!--this names the user score-->
+        <div id="computer-label" class="badge">COMP</div><!--this names the comp score-->
+        <span id="user-score">0</span>:<span id="computer-score">0</span><!--this visualize the scores-->
+    </div>
+
+    <div class="result">
+        <p>Choose your Hand. Challenger!</p>  <!-- This is where the results are stated-->
+    </div>
+
+    <div class="choices"><!--this list are the choices-->
+    <div class="choice" id="r"><!--this is the first choice id-->
+        <img src="assets/rock.jpeg" alt="Rock"><!--this links to the first image in assets-->
+    </div>
+    <div class="choice" id="p">
+        <img src="assets/paper.jpeg" alt="Paper">
+    </div>
+    <div class="choice" id="s">
+        <img src="assets/scissor.jpeg" alt="Scissor">
+    </div>
+</div>
+
+    <p id="action-message">Make your move</p>
+    <script src="script.js" charset="utf-8"></script><!--wher html links to javascript-->
+    
+    <footer>
+        <p>DC101 Project Created by Zeus F. Sevilla</p>
+        <p>BSCS 1C KLL College</p>
+        <p>2025</p>
+    </footer>
+</body>
+</html>
