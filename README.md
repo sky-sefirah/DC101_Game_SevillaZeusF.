@@ -10,7 +10,7 @@ Mode: Individual Work
 Deadline: Dec 12, 2025
 
 Objectives:
-Develop a browser-based game using HTML, CSS, and JavaScript, and publish it on GitHub. This project reinforces front-end development skills and introduces students to version control and public repositories.
+ Develop a browser-based game using HTML, CSS, and JavaScript, and publish it on GitHub. This project reinforces front-end development skills and introduces students to version control and public repositories.
 
 Game Title: Rock Paper Scissor Game
 
@@ -18,6 +18,7 @@ Description:
 a single player rock paper scissor browser game web development DC101 project using html for structure, css for styling and responsiveness and javascript for interactivity and logic.
 
 Instructions:
+
 1.To start playing the game by randomly selecting any of the three choices (rock, paper,scissor)
 
 2.Simultaneously the comp will also randomly select from the choices.
