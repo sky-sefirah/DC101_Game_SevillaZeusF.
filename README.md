@@ -28,3 +28,4 @@ Instructions:
 4.Scores will be recorded at the scoreboard until you reset or refresh the webpage
 
 This project was guided/referenced by watching a Youtube: Web Development Tutorial by FreecodeCamp.org
+https://github.com/sky-sefirah/DC101_Game_SevillaZeusF..git
