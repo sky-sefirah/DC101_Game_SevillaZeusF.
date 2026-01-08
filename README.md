@@ -1,4 +1,4 @@
-# DC101_Game_SevillaZeusF.
+# DC101_Game_SevillaZeusF. BSCS 2C
 Project Instructions: Individual Work
 
 Course: DC 101 – Web Development
